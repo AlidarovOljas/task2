@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">task2</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="FragmentA">FragmentA</string>
+    <string name="FragmentB">FragmentB</string>
+    <string name="FragmentC">FragmentC</string>
+    <string name="input">write data</string>
+    <string name="add">Put</string>
+    <string name="refresh">Refresh</string>
+    <string name="data">Date</string>
+</resources>
